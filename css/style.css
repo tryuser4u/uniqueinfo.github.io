@@ -209,7 +209,7 @@
 
 }
 
-.burger{
+/*.burger{
     display: none;
     position: absolute;
     cursor: pointer;
@@ -222,7 +222,7 @@
 .line{
     width: 33px;
     background-color: white;
-    height: 4px;
+    height: 4px;*/
     margin: 5px 3px;
 }
 
